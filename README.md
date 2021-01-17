@@ -5,8 +5,8 @@ In this post, I would like to go over an animation that extends a card to full s
 ## Project States
 
 ## Close State
-![Image of Close](https://octodex.github.com/images/yaktocat.png)
+![Image of Close](https://github.com/TheAppWizard/CardAppSwiftUI/blob/main/output/closestate.png)
 
 ## Open State
 
-![Image of Open](https://octodex.github.com/images/yaktocat.png)
+![Image of Open](https://github.com/TheAppWizard/CardAppSwiftUI/blob/main/output/openstate.png)
